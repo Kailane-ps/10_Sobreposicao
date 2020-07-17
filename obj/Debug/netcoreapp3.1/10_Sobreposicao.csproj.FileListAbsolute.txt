@@ -1,0 +1,13 @@
+C:\Users\Kailane\Desktop\SENAI K\10_Sobreposicao\bin\Debug\netcoreapp3.1\10_Sobreposicao.exe
+C:\Users\Kailane\Desktop\SENAI K\10_Sobreposicao\bin\Debug\netcoreapp3.1\10_Sobreposicao.deps.json
+C:\Users\Kailane\Desktop\SENAI K\10_Sobreposicao\bin\Debug\netcoreapp3.1\10_Sobreposicao.runtimeconfig.json
+C:\Users\Kailane\Desktop\SENAI K\10_Sobreposicao\bin\Debug\netcoreapp3.1\10_Sobreposicao.runtimeconfig.dev.json
+C:\Users\Kailane\Desktop\SENAI K\10_Sobreposicao\bin\Debug\netcoreapp3.1\10_Sobreposicao.dll
+C:\Users\Kailane\Desktop\SENAI K\10_Sobreposicao\bin\Debug\netcoreapp3.1\10_Sobreposicao.pdb
+C:\Users\Kailane\Desktop\SENAI K\10_Sobreposicao\obj\Debug\netcoreapp3.1\10_Sobreposicao.csprojAssemblyReference.cache
+C:\Users\Kailane\Desktop\SENAI K\10_Sobreposicao\obj\Debug\netcoreapp3.1\10_Sobreposicao.AssemblyInfoInputs.cache
+C:\Users\Kailane\Desktop\SENAI K\10_Sobreposicao\obj\Debug\netcoreapp3.1\10_Sobreposicao.AssemblyInfo.cs
+C:\Users\Kailane\Desktop\SENAI K\10_Sobreposicao\obj\Debug\netcoreapp3.1\10_Sobreposicao.csproj.CoreCompileInputs.cache
+C:\Users\Kailane\Desktop\SENAI K\10_Sobreposicao\obj\Debug\netcoreapp3.1\10_Sobreposicao.dll
+C:\Users\Kailane\Desktop\SENAI K\10_Sobreposicao\obj\Debug\netcoreapp3.1\10_Sobreposicao.pdb
+C:\Users\Kailane\Desktop\SENAI K\10_Sobreposicao\obj\Debug\netcoreapp3.1\10_Sobreposicao.genruntimeconfig.cache
